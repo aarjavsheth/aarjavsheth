@@ -6,8 +6,8 @@
 **I am Aarjav Sheth** 
 - A Full-stack developer.
 - Experience leading multiple software engineering teams.
-- Proven coding skills in Java, Node.js, React.js, database design, and SQL.
-- Experience modeling and creating relational and NoSQL databases.
+- Proven coding skills in Java, Node.js, React.js, Python, and SQL.
+- Experience designing RDBMS and NoSQL databases.
 - Proficient in working with cloud technologies like AWS and GCP.
 - Adept in web Integration using REST and SOAP webservices.
 - Proficient with AGILE methodologies and Agile based SDLC.
